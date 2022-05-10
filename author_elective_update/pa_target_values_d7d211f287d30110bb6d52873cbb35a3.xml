@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_target_values">
+    <pa_target_values action="DELETE">
+        <next_target>00000000</next_target>
+        <sys_class_name>pa_target_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-10 04:12:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d7d211f287d30110bb6d52873cbb35a3</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>210</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_target_values_d7d211f287d30110bb6d52873cbb35a3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-10 04:13:00</sys_updated_on>
+        <target display_value="NeedIt: Due Monthly">d3d211f287d30110bb6d52873cbb359f</target>
+        <target_at>20220101</target_at>
+        <target_name>NeedIt: Due Monthly</target_name>
+        <target_review>20220601</target_review>
+        <value>210</value>
+    </pa_target_values>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>128f731edb5dc5101b813feb68961921</instance_id>
+        <instance_name>dev122754</instance_name>
+        <name>pa_target_values_d7d211f287d30110bb6d52873cbb35a3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_target_values"><pa_target_values action="INSERT_OR_UPDATE"><next_target>00000000</next_target><sys_class_name>pa_target_values</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-10 04:12:28</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d7d211f287d30110bb6d52873cbb35a3</sys_id><sys_mod_count>2</sys_mod_count><sys_name>210</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>pa_target_values_d7d211f287d30110bb6d52873cbb35a3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-10 04:13:00</sys_updated_on><target display_value="NeedIt: Due Monthly">d3d211f287d30110bb6d52873cbb359f</target><target_at>20220101</target_at><target_name>NeedIt: Due Monthly</target_name><target_review>20220601</target_review><value>210</value></pa_target_values></record_update>]]></payload>
+        <payload_hash>-141098983</payload_hash>
+        <record_name>210</record_name>
+        <reverted_from/>
+        <source>236d4c4687030110bb6d52873cbb358a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-10 04:13:00</sys_created_on>
+        <sys_id>93f2917687d30110bb6d52873cbb35dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>180ac2b9c980000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-10 04:13:00</sys_updated_on>
+        <type>Target value</type>
+        <update_guid>9bf291763ad3011082230c66d8ff7cdc</update_guid>
+        <update_guid_history>9bf291763ad3011082230c66d8ff7cdc:-141098983,f7e2d1f239d30110abf90799a0bb035b:1343484957,53d2117619d30110ba8d9f6f758fcc95:83237245</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="210">c88511f687d30110bb6d52873cbb3584</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-10 04:23:58</sys_created_on>
+        <sys_db_object display_value="" name="pa_target_values">pa_target_values</sys_db_object>
+        <sys_id>7bd8a520586f4c3f89b9b67f9d3aa8f1</sys_id>
+        <sys_metadata>d7d211f287d30110bb6d52873cbb35a3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>210</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="fae2e4b687130110bb6d52873cbb3599">d3d211f287d30110bb6d52873cbb359f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>pa_target_values_d7d211f287d30110bb6d52873cbb35a3</sys_update_name>
+        <sys_update_version display_value="pa_target_values_d7d211f287d30110bb6d52873cbb35a3">93f2917687d30110bb6d52873cbb35dd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-10 04:23:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
